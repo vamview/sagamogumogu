@@ -15,4 +15,4 @@ world
 
 
 
-![food]({{site.baseurl}}img1.jpg)
+![food]({{site.baseurl}}/img1.jpg)
