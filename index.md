@@ -7,7 +7,7 @@ title: my first site
 world
 
 {% for post in site.posts %}
-- [{{post.title}}]({{ site.baseurl }}{{post.url}})
+- [{{post.title}}]({{site.baseurl}}{{post.url}})
 
 {% endfor %}
 こんにちは！
@@ -15,4 +15,4 @@ world
 
 
 
-![food]({{ site.baseurl }}/img1.jpg)
+![food]({{site.baseurl}}img1.jpg)
